@@ -114,3 +114,6 @@ Response Body (failed) :
   "error": "User not found"
 }
 ```
+
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/acc03a03-1a00-46d6-a369-285f24d95a94" />
